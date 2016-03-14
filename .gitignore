@@ -1,0 +1,7 @@
+.git
+*/data/*
+*/output/*
+*.txt
+*.gz
+*.csv
+*/*xcodeproj*
